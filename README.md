@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Ankit | Github(kr-nkit)</title>
+  <title>Rashi Bareria | Github(RashiBareria)</title>
   <meta name="description" content="">
   <meta name="author" content="">
 
@@ -41,7 +41,7 @@
     <div class="container">
       <div class="row">
         <div class="intro-text">
-          <h1>Ankit</h1>
+          <h1>Rashi</h1>
           <hr>
           <p>Web Developer • Engineer • Designer</p>
           <a href="#about" class="btn btn-white btn-lg page-scroll">Learn More</a> </div>
@@ -81,8 +81,8 @@
       <div class="col-md-12 text-center"><div class="profile"></div></div>
       <div class="col-md-8 col-md-offset-2">
         <div class="about-text">
-          <p>I am a pre-final year B.Tech Computer Science & Engineering student at Institute of Engineering & Managemnet in Kolkata.</p>
-          <p>I’m a web designer and developer with a great passion for building new things.I currently live in city of joy, Kolkata(India).</p>
+          <p>I am a pre-final year B.Sc Computer Science student at Patna Women's College in Patna.</p>
+          <p>I’m a web & graphic designer.I currently live in  Patna(India).</p>
           <a href="#portfolio" class="btn btn-default btn-lg page-scroll">My Portfolio</a> </div>
       </div>
     </div>
