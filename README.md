@@ -16,21 +16,21 @@ RashiBareria
   </div>
   <div class="column">
     <div class="content">
-      <img src="lights.jpg" alt="Lights" style="width:100%">
+      <img src="https://github.com/RashiBareria/Designing-Sample-Work-/blob/master/brochure3.png" alt="Lights" style="width:100%">
       <h3>My Work</h3>
       <p>Lorem ipsum..</p>
     </div>
   </div>
   <div class="column">
     <div class="content">
-      <img src="nature.jpg" alt="Nature" style="width:100%">
+      <img src="https://github.com/RashiBareria/Designing-Sample-Work-/blob/master/business%20card1.png" alt="Nature" style="width:100%">
       <h3>My Work</h3>
       <p>Lorem ipsum..</p>
     </div>
   </div>
   <div class="column">
     <div class="content">
-      <img src="mountains.jpg" alt="Mountains" style="width:100%">
+      <img src="https://github.com/RashiBareria/Designing-Sample-Work-/blob/master/business%20card2.png" alt="Mountains" style="width:100%">
       <h3>My Work</h3>
       <p>Lorem ipsum..</p>
     </div>
@@ -38,7 +38,7 @@ RashiBareria
 </div>
 
 <div class="content">
-  <img src="bear.jpg" alt="Bear" style="width:100%">
+  <img src="https://github.com/RashiBareria/Designing-Sample-Work-/blob/master/vbbg.png" alt="Bear" style="width:100%">
   <h3>Some Other Work</h3>
   <p>Lorem ipsum..</p>
 </div>
