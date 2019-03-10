@@ -23,14 +23,22 @@ RashiBareria
   </div>
   <div class="column">
     <div class="content">
-      <img src="https://github.com/RashiBareria/Designing-Sample-Work-/blob/master/business%20card1.png" alt="Nature" style="width:100%">
+      <img src="https://github.com/RashiBareria/Designing-Sample-Work-/blob/master/business%20card1.png" style="width:100%">
       <h3>My Work</h3>
       <p>Business Card Back..</p>
     </div>
   </div>
   <div class="column">
     <div class="content">
-      <img src="https://github.com/RashiBareria/Designing-Sample-Work-/blob/master/business%20card2.png" alt="Mountains" style="width:100%">
+      <img src="https://github.com/RashiBareria/Designing-Sample-Work-/blob/master/business%20card2.png" style="width:100%">
+      <h3>My Work</h3>
+      <p>Business Card Front..</p>
+    </div>
+  </div>
+</div>
+ <div class="column">
+    <div class="content">
+      <img src="https://github.com/RashiBareria/Designing-Sample-Work-/blob/master/vbbg.png"  style="width:100%">
       <h3>My Work</h3>
       <p>Business Card Front..</p>
     </div>
@@ -38,7 +46,6 @@ RashiBareria
 </div>
 
 <div class="content">
-  <img src="https://github.com/RashiBareria/Designing-Sample-Work-/blob/master/vbbg.png" alt="Bear" style="width:100%">
   
 </div>
 
